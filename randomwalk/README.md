@@ -1,1 +1,1 @@
-[randomwalk](./randomwalk.gif/)
+![randomwalk](./randomwalk.gif/)
