@@ -41,7 +41,6 @@ void setup(){
      c[2][i]=new Circle(120*cos(radians(360.0/4*i)),120*sin(radians(360.0/4*i)),20,50,1);
      c[3][i]=new Circle(90*cos(radians(360.0/4*i)),90*sin(radians(360.0/4*i)),20,50,-1);
   }
-  
 }
 
 void draw(){
