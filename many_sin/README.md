@@ -1,2 +1,2 @@
 processing  
-![blocked_sin](./blocked_sin.gif)
+![many_sin](./many_sin.gif)
