@@ -28,12 +28,13 @@ class Ball{
    }
  }
 }
-int N=50;
+int N=40;
 Ball ball[]=new Ball[N];
+
 void setup(){
   size(500,500);
   colorMode(HSB,360,100,100);
-  stroke(255);
+  stroke(255,0,100);
   for(int i=0;i<N;i++){
     ball[i]=new Ball(new PVector(random(width),random(height)),
                         new PVector(random(-2,2),random(-2,2)));
@@ -42,7 +43,7 @@ void setup(){
 
 void draw(){
   background(0);
-  strokeWeight(2);
+  strokeWeight(1);
   //stroke(255);
   for(int i=0;i<N;i++){
    ball[i].show(); 
