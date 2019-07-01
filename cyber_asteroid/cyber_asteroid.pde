@@ -12,8 +12,8 @@ class Particle{
   
   void show(){
    float noi=map(noise(noise_seed),0,1,-20,20);
-   pos.x=(size+noi)*cos(deg); 
-   pos.y=(size+noi)*sin(deg);
+   pos.x=(size+noi)*cos(deg)*cos(deg)*cos(deg); 
+   pos.y=(size+noi)*sin(deg)*sin(deg)*sin(deg);
    deg+=add_deg;
    noise_seed+=0.01;
   }
@@ -27,8 +27,8 @@ void setup(){
   colorMode(HSB,360,100,100);
   stroke(255);
   for(int i=0;i<N;i++){
-    if(i<N/2)p[i]=new Particle(120);
-    else p[i]=new Particle(200);
+    if(i<N/2)p[i]=new Particle(180);
+    else p[i]=new Particle(230);
   }
 }
 
