@@ -1,4 +1,4 @@
-* ここではprocessing、もしくはopenframeworksによるアート作品を公開しています。以下に静止画のプレビューを掲載しており、名前クリックすればコードが閲覧できます。
+* ここではprocessing、及びopenframeworksによるアート作品を公開しています。以下にプレビューを掲載しており、名前をクリックすればコードが閲覧できます。
 
 
 
@@ -57,3 +57,8 @@
 * [randomwalk2](https://github.com/gotutiyan/art-by-processing/tree/master/randomwalk2)
 
   ![randomwalk2](./randomwalk2/randomwalk2.gif)
+
+* [four_arc](https://github.com/gotutiyan/art-by-processing/tree/master/four_arc)
+
+  ![four_arc](./four_arc/four_arc.gif)
+
