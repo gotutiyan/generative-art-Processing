@@ -1,4 +1,3 @@
-//Arc a=new Arc(new PVector(100, 100), new PVector(40, 40), 0);
 Arc[][] a=new Arc[5][5];
 
 void setup() {

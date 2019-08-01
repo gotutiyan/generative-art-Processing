@@ -62,3 +62,7 @@
 
   ![four_arc](./four_arc/four_arc.gif)
 
+  * [rect_split](https://github.com/gotutiyan/art-by-processing/tree/master/rect_split)
+
+  ![rect_split](./rect_split/rect_split.gif)
+
