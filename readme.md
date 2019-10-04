@@ -73,3 +73,8 @@
 * [mirror_bound](https://github.com/gotutiyan/art-by-processing/tree/master/mirror_bound)
 
   ![mirror_bound](./mirror_bound/mirror_bound.gif)
+
+* [explosion_planet](https://github.com/gotutiyan/art-by-processing/tree/master/explosion_planet)
+  
+  ![explosion_planet](./explosion_planet/explosion_planet.gif)
+
