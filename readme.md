@@ -81,3 +81,8 @@
 * [constrain_sin](https://github.com/gotutiyan/art-by-processing/tree/master/constrain_sin)
 
   ![constrain_sin](./constrain_sin/constrain_sin.gif)
+
+* [fill_noisy](https://github.com/gotutiyan/art-by-processing/tree/master/fill_noisy)
+
+  ![fill_noisy](./fill_noisy/fill_noisy.gif)
+
