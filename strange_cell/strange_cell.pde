@@ -10,8 +10,8 @@ void setup(){
 }
 
 void draw(){
-  background(255);
-  stroke(0);
+  background(0);
+  stroke(255);
   strokeWeight(5);
   for(int mode=0;mode<2;mode++)
     for(int i=0;i<n+1;i++)
