@@ -86,3 +86,6 @@
 
   ![fill_noisy](./fill_noisy/fill_noisy.gif)
 
+* [strange_cell](https://github.com/gotutiyan/art-by-processing/tree/master/strange_cell)
+
+  ![strange_cell](./strange_cell/strange_cell.gif)
