@@ -89,3 +89,7 @@
 * [strange_cell](https://github.com/gotutiyan/art-by-processing/tree/master/strange_cell)
 
   ![strange_cell](./strange_cell/strange_cell.gif)
+
+* [swap_triangle](https://github.com/gotutiyan/art-by-processing/tree/master/swap_triangle)
+
+  ![swap_triangle](./swap_triangle/swap_triangle.gif)
