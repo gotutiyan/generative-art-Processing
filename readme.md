@@ -44,7 +44,7 @@
 
 * [natto](https://github.com/gotutiyan/art-by-processing/tree/master/natto)
 
-  ​	![natto](./natto/natto.gif)		)
+  ​	![natto](./natto/natto.gif)
 
 * [random_line](https://github.com/gotutiyan/art-by-processing/tree/master/random_line)
 
