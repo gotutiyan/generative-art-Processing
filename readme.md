@@ -97,3 +97,7 @@
 * [hidden_flower](https://github.com/gotutiyan/art-by-processing/tree/master/hidden_flower)
 
   ![hidden_flower](./hidden_flower/hidden_flower.gif)
+
+* [takoyaki](https://github.com/gotutiyan/generative-art-Processing/tree/master/takoyaki)
+
+  ![takoyaki](./takoyaki/takoyaki.gif)
