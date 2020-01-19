@@ -1,13 +1,7 @@
 int n = 50;
-int sz = 50;
-PVector pos[] = new PVector[n];
 float rad[] = new float[n];
 void setup(){
   size(500,500);
-  for(int i=0;i<n;i++){
-    pos[i] = new PVector(0,0);
-    rad[i] = 0;
-  }
 }
 
 void draw(){
