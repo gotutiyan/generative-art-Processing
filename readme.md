@@ -93,3 +93,7 @@
 * [swap_triangle](https://github.com/gotutiyan/art-by-processing/tree/master/swap_triangle)
 
   ![swap_triangle](./swap_triangle/swap_triangle.gif)
+
+* [hidden_flower](https://github.com/gotutiyan/art-by-processing/tree/master/hidden_flower)
+
+  ![hidden_flower](./hidden_flower/hidden_flower.gif)
