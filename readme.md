@@ -101,3 +101,7 @@
 * [takoyaki](https://github.com/gotutiyan/generative-art-Processing/tree/master/takoyaki)
 
   ![takoyaki](./takoyaki/takoyaki.gif)
+
+* [cross_or_square](https://github.com/gotutiyan/generative-art-Processing/tree/master/cross_or_square)
+
+  ![cross_or_square](./cross_or_square/cross_or_square.gif)
