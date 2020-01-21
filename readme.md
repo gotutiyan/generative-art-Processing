@@ -105,3 +105,7 @@
 * [cross_or_square](https://github.com/gotutiyan/generative-art-Processing/tree/master/cross_or_square)
 
   ![cross_or_square](./cross_or_square/cross_or_square.gif)
+
+* [morphing_demo](https://github.com/gotutiyan/generative-art-Processing/tree/master/morphing_demo)
+
+  ![morphing_demo](./morphing_demo/morphing_demo.gif)
