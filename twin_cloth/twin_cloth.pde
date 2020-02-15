@@ -34,9 +34,13 @@ class TwinCircle{
     float radians2 = radians1 + PI;
     PVector pos1 = new PVector(r*cos(radians1), r*sin(radians1));
     PVector pos2 = new PVector(r*cos(radians2), r*sin(radians2));
-    fill(255 - map(radians1,0,PI,0,255));
+    color c1 = color(255 - map(radians1,0,PI,0,360));
+    color c2 = color(255 - map(radians2,PI,2*PI,360,0));
+    fill(c1);
+    stroke(c2);
     ellipse(pos1.x, pos1.y, 50, 50);
-    fill(255 - map(radians2,PI,2*PI,255,0));
+    fill(c2);
+    stroke(c1);
     ellipse(pos2.x, pos2.y, 50, 50);
     seed += PI/128;
   }
