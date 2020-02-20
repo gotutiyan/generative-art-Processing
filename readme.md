@@ -122,3 +122,11 @@
 * [colorful_donut](https://github.com/gotutiyan/generative-art-Processing/tree/master/colorful_donut)
 
   ![colorful_donut](./colorful_donut/colorful_donut.gif)
+
+* [strong_wind](https://github.com/gotutiyan/generative-art-Processing/tree/master/strong_wind)
+
+  ![strong_wind](./strong_wind/strong_wind.gif)
+
+* [circeroid2](https://github.com/gotutiyan/generative-art-Processing/tree/master/circeroid2)
+
+  ![circeroid2](./circeroid2/circeroid2.gif)
