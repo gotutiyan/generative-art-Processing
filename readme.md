@@ -130,3 +130,7 @@
 * [circeroid2](https://github.com/gotutiyan/generative-art-Processing/tree/master/circeroid2)
 
   ![circeroid2](./circeroid2/circeroid2.gif)
+
+* [arcs](https://github.com/gotutiyan/generative-art-Processing/tree/master/arcs)
+
+  ![arcs](./arcs/arcs.gif)
