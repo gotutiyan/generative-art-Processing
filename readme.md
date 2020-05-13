@@ -142,3 +142,7 @@
 * [rettousei](https://github.com/gotutiyan/generative-art-Processing/tree/master/rettousei)
 
   ![rettousei](./rettousei/rettousei.gif)
+
+* [stars](https://github.com/gotutiyan/generative-art-Processing/tree/master/stars)
+
+  ![stars](./stars/stars.gif)
