@@ -150,3 +150,7 @@
 * [swap_square](https://github.com/gotutiyan/generative-art-Processing/tree/master/swap_square)
 
   ![swap_square](./swap_square/swap_square.gif)
+
+* [rec_rect](https://github.com/gotutiyan/generative-art-Processing/tree/master/rec_rect)
+
+  ![rec_rect](./rec_rect/rec_rect.gif)
