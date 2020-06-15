@@ -154,3 +154,7 @@
 * [rec_rect](https://github.com/gotutiyan/generative-art-Processing/tree/master/rec_rect)
 
   ![rec_rect](./rec_rect/rec_rect.gif)
+
+* [noised_circles](https://github.com/gotutiyan/generative-art-Processing/tree/master/noised_circles)
+
+  ![noised_circles](./noised_circles/noised_circles.gif)
