@@ -158,3 +158,7 @@
 * [noised_circles](https://github.com/gotutiyan/generative-art-Processing/tree/master/noised_circles)
 
   ![noised_circles](./noised_circles/noised_circles.gif)
+
+* [flip_panel](https://github.com/gotutiyan/generative-art-Processing/tree/master/flip_panel)
+
+  ![flip_panel](./flip_panel/flip_panel.gif)
