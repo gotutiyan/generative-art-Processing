@@ -162,3 +162,7 @@
 * [flip_panel](https://github.com/gotutiyan/generative-art-Processing/tree/master/flip_panel)
 
   ![flip_panel](./flip_panel/flip_panel.gif)
+
+* [chains](https://github.com/gotutiyan/generative-art-Processing/tree/master/chains)
+
+  ![chains](./chains/chains.gif)
