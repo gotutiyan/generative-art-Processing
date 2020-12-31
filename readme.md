@@ -30,10 +30,6 @@
 
   ![flare](./flare/flare.gif)
 
-* [link_circle](https://github.com/gotutiyan/art-by-processing/tree/master/link_circle)
-
-  ![link_circle](./link_circle/link-circle.gif)
-
 * [many_sin](https://github.com/gotutiyan/art-by-processing/tree/master/many_sin)
 
   ![many_sin](./many_sin/many_sin.gif)
@@ -70,18 +66,12 @@
 
   ![Loading](./Loading/Loading.gif)
   
-* [mirror_bound](https://github.com/gotutiyan/art-by-processing/tree/master/mirror_bound)
-
-  ![mirror_bound](./mirror_bound/mirror_bound.gif)
-
 * [explosion_planet](https://github.com/gotutiyan/art-by-processing/tree/master/explosion_planet)
   
   ![explosion_planet](./explosion_planet/explosion_planet.gif)
 
-* [constrain_sin](https://github.com/gotutiyan/art-by-processing/tree/master/constrain_sin)
-
-  ![constrain_sin](./constrain_sin/constrain_sin.gif)
-
+  
+  
 * [fill_noisy](https://github.com/gotutiyan/art-by-processing/tree/master/fill_noisy)
 
   ![fill_noisy](./fill_noisy/fill_noisy.gif)
@@ -110,10 +100,6 @@
 
   ![morphing_demo](./morphing_demo/morphing_demo.gif)
 
-* [circeroid](https://github.com/gotutiyan/generative-art-Processing/tree/master/circeroid)
-
-  ![circeroid](./circeroid/circeroid.gif)
-
 * [twin_cloth](https://github.com/gotutiyan/generative-art-Processing/tree/master/twin_cloth)
 
   ![twin_cloth](./twin_cloth/twin_cloth.gif)
@@ -138,10 +124,6 @@
 * [lifeline](https://github.com/gotutiyan/generative-art-Processing/tree/master/lifeline)
 
   ![lifeline](./lifeline/lifeline.gif)
-
-* [rettousei](https://github.com/gotutiyan/generative-art-Processing/tree/master/rettousei)
-
-  ![rettousei](./rettousei/rettousei.gif)
 
 * [stars](https://github.com/gotutiyan/generative-art-Processing/tree/master/stars)
 
@@ -171,3 +153,7 @@
 * [random_road](https://github.com/gotutiyan/generative-art-Processing/tree/master/random_road)
 
   ![random_road](./random_road/random_road.gif)
+
+* [generation_point](https://github.com/gotutiyan/generative-art-Processing/tree/master/generation_point)
+
+  ![generation_point](./generation_point/generation_point.gif)
