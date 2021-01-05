@@ -157,3 +157,7 @@
 * [generation_point](https://github.com/gotutiyan/generative-art-Processing/tree/master/generation_point)
 
   ![generation_point](./generation_point/generation_point.gif)
+
+* [pizza](https://github.com/gotutiyan/generative-art-Processing/tree/master/pizza)
+
+  ![pizza](./pizza/pizza.gif)
