@@ -161,3 +161,7 @@
 * [pizza](https://github.com/gotutiyan/generative-art-Processing/tree/master/pizza)
 
   ![pizza](./pizza/pizza.gif)
+
+* [two_kinds_squares](https://github.com/gotutiyan/generative-art-Processing/tree/master/two_kinds_squares)
+
+  ![two_kinds_squares](./two_kinds_squares/two_kinds_squares.gif)
