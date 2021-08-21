@@ -165,3 +165,7 @@
 * [two_kinds_squares](https://github.com/gotutiyan/generative-art-Processing/tree/master/two_kinds_squares)
 
   ![two_kinds_squares](./two_kinds_squares/two_kinds_squares.gif)
+
+* [bubbles](https://github.com/gotutiyan/generative-art-Processing/tree/master/bubbles)
+
+  ![bubbles](./bubbles/bubbles.gif)
