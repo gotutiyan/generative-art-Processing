@@ -169,3 +169,7 @@
 * [bubbles](https://github.com/gotutiyan/generative-art-Processing/tree/master/bubbles)
 
   ![bubbles](./bubbles/bubbles.gif)
+
+* [moving_triangle](https://github.com/gotutiyan/generative-art-Processing/tree/master/moving_triangle)
+
+  ![moving_triangle](./moving_triangle/moving_triangle.gif)
